@@ -1,0 +1,15 @@
+weekday,order_type,deliveries,sla_pct
+Mon,Scheduled,2010,96
+Tue,Scheduled,2230,95
+Wed,Scheduled,2480,94
+Thu,Scheduled,2390,95
+Fri,Scheduled,2510,96
+Sat,Scheduled,1980,94
+Sun,Scheduled,1640,95
+Mon,On-Demand,310,88
+Tue,On-Demand,290,85
+Wed,On-Demand,360,87
+Thu,On-Demand,340,86
+Fri,On-Demand,410,89
+Sat,On-Demand,520,84
+Sun,On-Demand,470,87
